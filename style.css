@@ -83,3 +83,16 @@ h2 {
 .work a {
   color: inherit;
 }
+
+/* ====== Work Section ======*/
+table {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+th,
+td {
+  padding: 10px;
+}
