@@ -75,3 +75,11 @@ h2 {
   width: 100%;
   padding-top: 10px;
 }
+
+/* ====== Work Section ======*/
+.work ul {
+  padding-left: 15px;
+}
+.work a {
+  color: inherit;
+}
