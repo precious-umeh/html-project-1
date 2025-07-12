@@ -5,7 +5,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.4;
   color: #333;
@@ -39,4 +39,19 @@ body {
 .nav-links:hover,
 .nav-links:active {
   border-bottom: 2px solid #333;
+}
+
+/* ====== Headings ======*/
+h1,
+h2 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
 }
