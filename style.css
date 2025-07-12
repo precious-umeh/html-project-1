@@ -69,3 +69,9 @@ h2 {
 .home {
   text-align: center;
 }
+
+/* ====== About Section ======*/
+.about video {
+  width: 100%;
+  padding-top: 10px;
+}
