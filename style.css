@@ -12,3 +12,31 @@ body {
   max-width: 600px;
   margin: 0 auto;
 }
+
+/*====== Navbar ======*/
+.nav {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.nav li {
+  display: inline;
+}
+
+.list {
+  list-style: none;
+}
+
+.nav-links:link,
+.nav-links:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-right: 10px;
+  color: inherit;
+  font-weight: 500;
+}
+
+.nav-links:hover,
+.nav-links:active {
+  border-bottom: 2px solid #333;
+}
